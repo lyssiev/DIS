@@ -1,0 +1,20 @@
+.camera-label {
+  color: green;
+  position: fixed;
+  top: 0;
+  left: 5%;
+}
+
+.camera-vid {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 30%;
+  height: 30%;
+}
+
+#cam1 {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
